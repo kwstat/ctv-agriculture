@@ -87,6 +87,8 @@ Many of the agriculture-focused packages listed in this guide also include data 
 
 -   `r pkg("ZeBook")` provides data sets and examples accompanying the book [Working with Dynamic Crop Models](https://www.elsevier.com/books/working-with-dynamic-crop-models/wallach/978-0-12-811756-9).
 
+-   `r pkg("SoyURT")` has a large historical dataset to study genotype-by-environment interaction and identify mega-environments with genetic and non-genetic factors.
+
 ### [General analytical packages supporting agricultural research]{#analysis}
 
 The `r view("MixedModels")` task view provides a comprehensive list of packages relevant to fitting general and generalized linear mixed models. 
